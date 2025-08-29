@@ -22,9 +22,17 @@ This project is a **Power BI dashboard** designed to monitor website performance
 
 ## 📂 Project Structure
 Website-Performance-Dashboard/
-│── WebsitePerformance.pbix # Power BI Dashboard File
-│── README.md # Project Documentation
-│── screenshots/ # Dashboard Screenshots
+│── WebsitePerformance.pbix       # Main Power BI dashboard file
+│── README.md                     # Project documentation
+│── data/                         # (Optional) Sample dataset or mock data
+│   └── sample_data.csv
+│── screenshots/                  # Dashboard preview images
+│   ├── homepage-overview.png
+│   ├── engagement-metrics.png
+│   └── conversions.png
+│── docs/                         # Extra documentation if needed
+│   └── design_notes.md
+
 
 
 ---
